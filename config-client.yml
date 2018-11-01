@@ -3,4 +3,4 @@ info:
 server:
   port: 2106
 guest:
-  test: 测试2
+  test: 测试1
