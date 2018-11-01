@@ -1,6 +1,6 @@
 info:
   profile: dev
 server:
-  port: 2106
+  port: 2107
 guest:
-  test: 测试11
+  test: 测试12
