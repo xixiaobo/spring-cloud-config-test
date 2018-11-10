@@ -1,0 +1,5 @@
+server:
+  port: 8083
+
+info:
+  test: "配置中心文件"
