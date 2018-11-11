@@ -2,4 +2,4 @@ server:
   port: 18083
 
 info:
-  test: "配置中心修改文件"
+  test: "配置中心文件"
