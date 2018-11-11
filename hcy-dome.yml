@@ -1,5 +1,5 @@
 server:
-  port: 8083
+  port: 18083
 
 info:
   test: "配置中心修改文件"
